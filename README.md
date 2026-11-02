@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Nija MK 👋
 
-<!--
-**nija-mk/nija-mk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | B.Sc Computer Science Graduate
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Computer Science graduate (2025) with a six-month Data Analytics course. I am interested in data analysis, data visualization, and turning data into meaningful insights.
+
+### 🎓 Education
+- B.Sc Computer Science – Completed in 2025
+- Six-Month Data Analytics Course
+
+### 💻 Technical Skills
+- SQL
+- Python
+- Power BI
+- Tableau
+- Microsoft Excel
+- Statistics
+
+### 📊 Areas of Interest
+- Data Analysis
+- Data Visualization
+- Dashboard Development
+- Data Cleaning
+- Business Intelligence
+
+### 🎯 Career Objective
+Looking for opportunities to start my career as a Data Analyst and apply my analytical and technical skills.
+
+### 📫 Contact
+- Email: nijakurungot.1234@gmail.com
+- Location: Kerala, India
